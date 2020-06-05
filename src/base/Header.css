@@ -1,0 +1,16 @@
+h1{
+    display: inline;
+}
+
+img{
+    width: 100px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.branco {
+    color: white;
+    text-shadow: 3px 3px 3px rgb(71, 71, 71);
+}
