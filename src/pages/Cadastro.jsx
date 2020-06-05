@@ -22,7 +22,7 @@ export default class Cadastro extends Component {
     submitHandler = (e) => {
         e.preventDefault()
         console.log(this.state)
-        Axios.post('http://hamiltondeveloper-com-br.umbler.net/cadastro', this.state)
+        Axios.post('https://hamiltondeveloper-com-br.umbler.net/cadastro', this.state)
             .then(resp => {
                 if (resp.data.status === 'SUCESSO') {
                     this.setState({
