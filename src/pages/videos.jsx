@@ -14,7 +14,7 @@ export default class Videos extends Component {
 
         let { id } = this.props.match.params
 
-        const url = `https://hamiltondeveloper-com-br.umbler.net/videos`
+        const url = `https://pinheirosites-com-br.umbler.net/videos`
 
         fetch(url)
             .then(res => res.json())
