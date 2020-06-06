@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/helpdesk/static/css/main.2d38894e.chunk.css",
+    "main.js": "/helpdesk/static/js/main.3cef4f78.chunk.js",
+    "main.js.map": "/helpdesk/static/js/main.3cef4f78.chunk.js.map",
+    "runtime-main.js": "/helpdesk/static/js/runtime-main.9f05515f.js",
+    "runtime-main.js.map": "/helpdesk/static/js/runtime-main.9f05515f.js.map",
+    "static/js/2.569ea5bd.chunk.js": "/helpdesk/static/js/2.569ea5bd.chunk.js",
+    "static/js/2.569ea5bd.chunk.js.map": "/helpdesk/static/js/2.569ea5bd.chunk.js.map",
+    "index.html": "/helpdesk/index.html",
+    "precache-manifest.bd88535ae4c96f96933c0e3bd4e4824c.js": "/helpdesk/precache-manifest.bd88535ae4c96f96933c0e3bd4e4824c.js",
+    "service-worker.js": "/helpdesk/service-worker.js",
+    "static/css/main.2d38894e.chunk.css.map": "/helpdesk/static/css/main.2d38894e.chunk.css.map",
+    "static/js/2.569ea5bd.chunk.js.LICENSE.txt": "/helpdesk/static/js/2.569ea5bd.chunk.js.LICENSE.txt",
+    "static/media/aubicon.jpg": "/helpdesk/static/media/aubicon.a623bb22.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f05515f.js",
+    "static/js/2.569ea5bd.chunk.js",
+    "static/css/main.2d38894e.chunk.css",
+    "static/js/main.3cef4f78.chunk.js"
+  ]
+}
