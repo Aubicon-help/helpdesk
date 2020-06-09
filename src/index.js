@@ -6,6 +6,7 @@ import { HashRouter } from 'react-router-dom'
 import Rotas from './Rotas'
 import Menu from './base/Menu'
 import Header from './base/Header'
+import Footer from './base/Footer'
 
 
 ReactDOM.render(
@@ -14,6 +15,7 @@ ReactDOM.render(
       <Header />
       <Menu />
       <Rotas />
+      <Footer />
     </React.StrictMode>
   </HashRouter>,
   document.getElementById('root')

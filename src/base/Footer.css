@@ -1,0 +1,29 @@
+.footer {
+    background: linear-gradient(to right, rgb(0, 180, 219), rgb(0, 131, 176));
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li Link, Link:hover {
+    color: white;
+    transition: color .2s;
+}
+
+i {
+    font-size: 25px;
+}
+
+.header{
+    font-size: 25px;
+}
+
+
+.copyright p {
+    border-top: 1px solid white;
+    text-align: center;
+    color:white;
+    font-weight: bolder;
+}

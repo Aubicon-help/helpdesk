@@ -32,7 +32,7 @@ export default class Menu extends Component {
                             </div>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link disabled" to="#">Desativado</Link>
+                            <Link className="nav-link" to="/Teste">CNPJ</Link>
                         </li>
                     </ul>
                 </div>
